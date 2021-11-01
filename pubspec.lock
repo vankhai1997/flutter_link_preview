@@ -44,9 +44,11 @@ packages:
   gbk2utf8:
     dependency: "direct main"
     description:
-      name: gbk2utf8
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "94e1c878f712b8bd0e1b30e777b86d20cc00a16e"
+      url: "https://github.com/vankhai1997/gbk2utf8"
+    source: git
     version: "1.0.1"
   html:
     dependency: "direct main"

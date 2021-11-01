@@ -11,7 +11,8 @@ dependencies:
         sdk: flutter
     http: ^0.13.1
     html: ^0.15.0
-    gbk2utf8: ^1.0.1
+    gbk2utf8:
+        git: https://github.com/vankhai1997/gbk2utf8
 
 dev_dependencies:
 
